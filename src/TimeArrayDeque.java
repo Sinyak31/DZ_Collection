@@ -82,7 +82,6 @@ public class TimeArrayDeque {
         removeFirstNameList();
         removeLastNameList();
         removeRandomName();
-        System.out.println();
         return nanoTimes;
     }
 

@@ -91,9 +91,6 @@ abstract class TimeСalculationList {
         removeLastNameList();
         nameReplacement();
         removeRandomName();
-        System.out.println();
-
-
         return nanoTimes;
     }
 }
